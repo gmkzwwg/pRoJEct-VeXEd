@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : pRoJEct-VeXEd
 owner               : "DeerRIDER"
-url                : "https://akiritsu.github.io"
+url                : "https://gmkzwwg.github.io"
 baseurl            : "/pRoJEct-VeXEd"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
@@ -59,7 +59,7 @@ collections:
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : gmkzwwg
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
@@ -84,11 +84,11 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
+email               : "https://github.com/gmkzwwg/pRoJEct-VeXEd" 
 linkedin            : 
 github              : "just-test" 
 gitlab              : 
-website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
+website             : "https://github.com/gmkzwwg/pRoJEct-VeXEd"
 twitter             : "just-test"
 facebook            : "just-test"
 instagram           : 
